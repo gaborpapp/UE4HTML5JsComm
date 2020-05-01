@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{000468F8-08D7-E705-F834-4D869AB30868}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE4HTML5JsComm",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
